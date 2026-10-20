@@ -1,6 +1,8 @@
 NiGHTS into Dreams - Twin Seeds Palm Tree Restoration v1.1
 ===========================================================
 
+![Twin Seeds Palm Restoration](palm_restoration.png)
+
 WHAT IT DOES
 Restores a palm tree to the empty planter in Twin Seeds, using Sega's unused artwork and NiGHTS' original camera-facing sprite renderer. The tree's placement and proportions are a fan reconstruction, not a confirmed original Sega layout. Collision is not included.
 
